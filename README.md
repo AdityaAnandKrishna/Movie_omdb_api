@@ -1,3 +1,6 @@
 # Movie OMDb Api
--> to  run the project
--> open the index.html 
+> to run the project
+> open the ***index.html*** 
+
+## Screenshot of the application
+[screenshots]{./screeshot/screenshot.png}
