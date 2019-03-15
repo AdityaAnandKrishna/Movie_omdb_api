@@ -3,4 +3,4 @@
 > open the ***index.html*** 
 
 ## Screenshot of the application
-[screenshots]{./screeshot/screenshot.png}
+[screenshots]{./screenshot/screenshot.png}
