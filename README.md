@@ -3,4 +3,4 @@
 > open the ***index.html*** 
 
 ## Screenshot of the application
-[screenshots]{./screenshot/screenshot.png}
+[screenshots]{Movie_omdb_api/screenshot/screenshot.png}
